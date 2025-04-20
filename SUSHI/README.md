@@ -36,7 +36,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 <a href="[https://discord.com/invite/n6EdbFJ](https://discord.com/channels/@me)" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
-https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - HTML 5
